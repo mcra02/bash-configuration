@@ -1,5 +1,7 @@
 ### CONFIGURACION DE ZSHRC
 
+![](./img/example.png)
+
 Hay siete pasos de instalación para pasar de un terminal predeterminado a powerlevel9k terminal.
 
 [Installation Instructions](https://github.com/bhilburn/powerlevel9k/wiki/Install-Instructions)
